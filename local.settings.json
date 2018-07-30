@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "e56f58e4-6188-44c7-bb36-d4b36b4e6e68",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=geekenddemo;AccountKey=sG/+9FrGEqM6sqBDMtHKpBxuUknZGZqrA+D4JG9E699DU/MKzjKZPsKNDQTWQrrz4E1ttS24tain/GQeI1aUKw==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=geekenddemo;AccountKey=sG/+9FrGEqM6sqBDMtHKpBxuUknZGZqrA+D4JG9E699DU/MKzjKZPsKNDQTWQrrz4E1ttS24tain/GQeI1aUKw==",
+    "WEBSITE_CONTENTSHARE": "sendemailtocwb571",
+    "WEBSITE_SITE_NAME": "sendemailtocw",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=geekenddemo;AccountKey=sG/+9FrGEqM6sqBDMtHKpBxuUknZGZqrA+D4JG9E699DU/MKzjKZPsKNDQTWQrrz4E1ttS24tain/GQeI1aUKw=="
+  }
+}
